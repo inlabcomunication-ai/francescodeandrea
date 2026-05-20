@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://francesco-dandrea.it/</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://francesco-dandrea.it/portfolio</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://francesco-dandrea.it/servizi</loc><priority>0.8</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://francesco-dandrea.it/about</loc><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://francesco-dandrea.it/contatti</loc><priority>0.8</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://francesco-dandrea.it/progetto/bilico-bar</loc><priority>0.7</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/casa-f-x-r</loc><priority>0.7</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/casa-f-x-a</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/terrazzo-mp</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/casa-ld</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/casa-p-x-g</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/contattoo</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/casa-a-x-m</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/fdc-concept-store</loc><priority>0.7</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/macaron</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/liliana</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/herabuna-momi-poke</loc><priority>0.7</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/selezione-le-ferre</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/lf-box-le-ferre</loc><priority>0.6</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/bottle-le-ferre</loc><priority>0.7</priority></url>
+  <url><loc>https://francesco-dandrea.it/progetto/orto-condiviso</loc><priority>0.7</priority></url>
+</urlset>
