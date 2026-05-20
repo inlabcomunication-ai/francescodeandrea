@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    background: #F4EFE6;
+    color: #1A1614;
+    font-family: "Inter Tight", system-ui, sans-serif;
+  }
+  ::selection {
+    background: #B8593A;
+    color: #F4EFE6;
+  }
+}
+
+@layer utilities {
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-33.333%);
+    }
+  }
+  .animate-marquee {
+    animation: marquee 50s linear infinite;
+  }
+}
